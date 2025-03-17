@@ -1,6 +1,6 @@
-# Pix2Pix GAN for Image Colorization
+# GAN for Image Colorization
 
-This repository contains a pre-trained pix2pix GAN model for colorizing grayscale images.
+This repository contains a pre-trained GAN model for colorizing grayscale images.
 
 ## Important Note About Model Files
 
@@ -79,6 +79,6 @@ This will colorize the example grayscale images from the training dataset.
 
 If you prefer to use the Jupyter notebook:
 
-1. Open the `pix2pix-gan-for-image-colourisation.ipynb` notebook
+1. Open the `Gan-for-image-colourisation.ipynb` notebook
 2. Run all the needed cells
 3. At the end of the notebook, add cells similar to the Python script to process your personal images 
