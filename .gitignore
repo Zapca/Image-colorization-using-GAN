@@ -1,0 +1,34 @@
+# Ignore model files (too large for GitHub)
+.h5
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Large data files
+*.zip
+archive (3).zip
+results.zip
+
+# Preprocessed data
+preprocessed/
+colorized_outputs/
+processed_images/ 
