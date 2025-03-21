@@ -6,7 +6,7 @@ This repository contains a pre-trained GAN model for colorizing grayscale images
 
 The model files (*.h5) are not included in this repository due to GitHub's file size limitations. To use this project, you need to:
 
-1. Download the model files from [link](https://www.kaggle.com/code/shiratorizawa/pix2pix-gan-for-image-colourisation/output) 
+1. Download the model weights from [link](https://www.kaggle.com/code/shiratorizawa/pix2pix-gan-for-image-colourisation/output) 
 2. Place the downloaded files in the `results` directory:
    - `gen0.h5` - The generator model
    - `dis0.h5` - The discriminator model
